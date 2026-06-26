@@ -3,3 +3,6 @@ Allow: /app-ads.txt
 
 User-agent: *
 Disallow: /
+
+User-agent: Google-adstxt
+Disallow:
